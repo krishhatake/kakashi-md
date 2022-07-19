@@ -1,8 +1,8 @@
 {
-  "name": "raganork", 
+  "name": "★⃝𝐾𝛬𝐾𝛬𝑆𝐻𝐼★𝐷𝛯𝑆𝑇𝑅𝑂𝑌𝐸𝑅⃝★", 
   "version": "2.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "★⃝❥︎𝐾𝛬𝐾𝛬𝑆𝐻𝐼-♡︎-𝑀𝐼𝑁𝐴★⃝❥︎ whatsapp bot- Multi device version.",
+  "main": "./★⃝𝐾𝛬𝐾𝛬𝑆𝐻𝐼★𝐷𝛯𝑆𝑇𝑅𝑂𝑌𝐸𝑅⃝★/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
@@ -15,8 +15,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "★⃝❥︎𝐾𝛬𝐾𝛬𝑆𝐻𝐼-♡︎-𝑀𝐼𝑁𝐴★⃝❥︎",
+  "developer": "@★⃝𝐾𝛬𝐾𝛬𝑆𝐻𝐼★𝐷𝛯𝑆𝑇𝑅𝑂𝑌𝐸𝑅⃝★",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/souravkl11/raganork/issues"
